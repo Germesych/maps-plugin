@@ -4,9 +4,10 @@ node_modules/**/*
 /.cache/
 .cache/**/*
 /.git/
-/.ide/
-/.ide/**/*
-/ide
+/.idea/
+.idea
+/.idea/**/*
+/idea
 package-lock.json
 
 
